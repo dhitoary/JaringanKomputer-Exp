@@ -17,12 +17,12 @@ Repositori ini berisi kumpulan laporan, file simulasi, dan video penjelasan untu
 
 Berikut adalah daftar semua percobaan yang telah diselesaikan. Setiap percobaan memiliki folder dan dokumentasinya masing-masing.
 
-| Modul / Percobaan | Topik Utama | Link Laporan |
-| :--- | :--- | :--- |
-| **Percobaan 2** | Konfigurasi Jaringan Dasar & Verifikasi PING | [Lihat Laporan](./Judul_2/) |
-| **Percobaan 3** | *[Topik Percobaan 3 Nanti]* | `[Folder Belum Dibuat]` |
-| **Percobaan 4** | *[Topik Percobaan 4 Nanti]* | `[Folder Belum Dibuat]` |
-| ... | ... | ... |
+| Modul / Percobaan | Topik Utama |
+| :--- | :--- |
+| **Percobaan 2** | Konfigurasi Jaringan Dasar & Verifikasi PING |
+| **Percobaan 3** | *[Topik Percobaan 3 Nanti]* |
+| **Percobaan 4** | *[Topik Percobaan 4 Nanti]* |
+| ... | ... |
 
 *(Repositori ini akan diperbarui seiring berjalannya praktikum)*
 
