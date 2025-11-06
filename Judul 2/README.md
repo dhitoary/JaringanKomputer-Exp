@@ -1,4 +1,4 @@
-# Praktikum Jaringan Komputer - Percobaan 2
+# Praktikum Jaringan Komputer - Dhito Aryo Trengginas
 
 [![Packet Tracer](https://img.shields.io/badge/Cisco-Packet%20Tracer-blue.svg)](https://www.netacad.com/courses/packet-tracer) [![YouTube](https://img.shields.io/badge/YouTube-Tonton%20Video-red.svg)](https://youtu.be/LINK_VIDEO_ANDA)
 
@@ -6,7 +6,7 @@ Repositori ini berisi file laporan dan dokumentasi untuk tugas **Percobaan 2** m
 
 ---
 
-## 👤 Profil Mahasiswa
+## 👤 Profil
 
 - **Nama:** Dhito Aryo Trengginas
 - **NPM:** 2315061015
