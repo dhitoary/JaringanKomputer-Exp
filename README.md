@@ -19,7 +19,7 @@ Berikut adalah daftar semua percobaan yang telah diselesaikan. Setiap percobaan 
 
 | Modul / Percobaan | Topik Utama | Link Laporan |
 | :--- | :--- | :--- |
-| **Percobaan 2** | Konfigurasi Jaringan Dasar & Verifikasi PING | [Lihat Laporan](./Judul-2/) |
+| **Percobaan 2** | Konfigurasi Jaringan Dasar & Verifikasi PING | [Lihat Laporan](./Judul2/) |
 | **Percobaan 3** | *[Topik Percobaan 3 Nanti]* | `[Folder Belum Dibuat]` |
 | **Percobaan 4** | *[Topik Percobaan 4 Nanti]* | `[Folder Belum Dibuat]` |
 | ... | ... | ... |
