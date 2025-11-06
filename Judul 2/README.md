@@ -1,6 +1,6 @@
 # Praktikum Jaringan Komputer - Dhito Aryo Trengginas
 
-[![Packet Tracer](https://img.shields.io/badge/Cisco-Packet%20Tracer-blue.svg)](https://www.netacad.com/courses/packet-tracer) [![YouTube](https://img.shields.io/badge/YouTube-Tonton%20Video-red.svg)](https://youtu.be/LINK_VIDEO_ANDA)
+[![Packet Tracer](https://img.shields.io/badge/Cisco-Packet%20Tracer-blue.svg)](https://www.netacad.com/courses/packet-tracer) [![YouTube](https://img.shields.io/badge/YouTube-Tonton%20Video-red.svg)](https://youtu.be/YEOK_vSg4jc)
 
 Repositori ini berisi file laporan dan dokumentasi untuk tugas **Percobaan 2** mata kuliah Praktikum Jaringan Komputer.
 
