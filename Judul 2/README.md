@@ -33,23 +33,7 @@ File simulasi `.pkt` yang berisi topologi jaringan, konfigurasi perangkat, dan s
 
 Penjelasan lengkap mengenai langkah-langkah konfigurasi, proses *troubleshooting* (dari gagal hingga berhasil), dan hasil akhir dari Percobaan 2 dapat dilihat pada video YouTube berikut:
 
-- **Tonton Video:** **[Penjelasan Percobaan 2 Jaringan Komputer - (Judul Video Anda)](https://youtu.be/YEOK_vSg4jc)**
-
-### 3. Screenshot Verifikasi (PING)
-
-Berikut adalah screenshot yang mendokumentasikan hasil verifikasi konektivitas sebelum dan sesudah konfigurasi.
-
-**A. Ping Belum Berhasil (Sebelum Konfigurasi)**
-
-*Screenshot ini menunjukkan kondisi awal di mana koneksi PING gagal (Request timed out), menandakan perangkat belum terkonfigurasi dengan benar atau belum dapat berkomunikasi.*
-
-![Ping Gagal](Judul2/ping_Gagal_&_Berhasil/Ping_Gagal.jpg)
-
-**B. Ping Berhasil (Setelah Konfigurasi)**
-
-*Screenshot ini menunjukkan bahwa setelah konfigurasi alamat IP dilakukan dengan benar, perangkat dapat saling berkomunikasi, ditandai dengan balasan (Reply) dari PING.*
-
-![Ping Berhasil](Judul2/ping_Gagal_&_Berhasil/Ping_Berhasil.jpg)
+- **Tonton Video:** **[Penjelasan Percobaan 2 Jaringan Komputer - (Switch & Router Configuration || Dhito Aryo Trengginas 2315061015)](https://youtu.be/YEOK_vSg4jc)**
 
 ---
 
