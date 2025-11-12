@@ -20,7 +20,7 @@ Berikut adalah daftar semua percobaan yang telah diselesaikan. Setiap percobaan 
 | Modul / Percobaan | Topik Utama |
 | :--- | :--- |
 | **Percobaan 2** | Konfigurasi Jaringan Dasar & Verifikasi PING |
-| **Percobaan 3** | *[Topik Percobaan 3 Nanti]* |
+| **Percobaan 3** | Konfirgurasi VLAN & Trunkin |
 | **Percobaan 4** | *[Topik Percobaan 4 Nanti]* |
 | ... | ... |
 
